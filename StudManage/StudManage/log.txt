@@ -1,0 +1,4 @@
+E:\Programming\Git\KR\DataStruct\Ph1_DS\Project\StudManage\StudManage\CManage.cpp 79 CTable::LoadTable FAILED, CORRUPTED: .\Data\StudAddTable.txt
+E:\Programming\Git\KR\DataStruct\Ph1_DS\Project\StudManage\StudManage\CManage.cpp 79 CTable::LoadTable FAILED, CORRUPTED: .\Data\StudAddTable.txt
+E:\Programming\Git\KR\DataStruct\Ph1_DS\Project\StudManage\StudManage\CManage.cpp 79 CTable::LoadTable FAILED, CORRUPTED: .\Data\StudAddTable.txt
+E:\Programming\Git\KR\DataStruct\Ph1_DS\Project\StudManage\StudManage\CManage.cpp 79 CTable::LoadTable FAILED, CORRUPTED: .\Data\StudAddTable.txt

@@ -1,0 +1,96 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: StudManage - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP168.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/StudManage.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\DLinkList.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\MyBiTree_main.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CTable.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CMyFile.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\MyCopy.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CMyString.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\UI.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\Fit.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\Exception.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CInfo.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CInfoManage.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CManage.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CStudManage.cpp"
+"E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\main.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP168.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP169.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/StudManage.pdb" /debug /machine:I386 /out:"Debug/StudManage.exe" /pdbtype:sept 
+.\Debug\DLinkList.obj
+.\Debug\MyBiTree_main.obj
+.\Debug\CTable.obj
+.\Debug\CMyFile.obj
+.\Debug\MyCopy.obj
+.\Debug\CMyString.obj
+.\Debug\UI.obj
+.\Debug\Fit.obj
+.\Debug\Exception.obj
+.\Debug\CInfo.obj
+.\Debug\CInfoManage.obj
+.\Debug\CManage.obj
+.\Debug\CStudManage.obj
+.\Debug\main.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP169.tmp"
+<h3>Output Window</h3>
+Compiling...
+DLinkList.cpp
+MyBiTree_main.cpp
+CTable.cpp
+e:\programming\git\kr\datastruct\ph1_ds\n20140613\studmanage\studmanage\ctable.cpp(178) : warning C4102: 'LOAD_ERROR' : unreferenced label
+CMyFile.cpp
+MyCopy.cpp
+e:\programming\git\kr\datastruct\ph1_ds\n20140613\studmanage\studmanage\mycopy.cpp(76) : warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+e:\programming\git\kr\datastruct\ph1_ds\n20140613\studmanage\studmanage\mycopy.cpp(90) : warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+CMyString.cpp
+UI.cpp
+Fit.cpp
+Exception.cpp
+CInfo.cpp
+CInfoManage.cpp
+CManage.cpp
+E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CManage.cpp(547) : warning C4102: 'GETFILESIZE_ERROR' : unreferenced label
+CStudManage.cpp
+E:\Programming\Git\KR\DataStruct\Ph1_DS\n20140613\StudManage\StudManage\CStudManage.cpp(1553) : warning C4102: 'GETFILESIZE_ERROR' : unreferenced label
+main.cpp
+Linking...
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP16B.tmp" with contents
+[
+/nologo /o"Debug/StudManage.bsc" 
+.\Debug\DLinkList.sbr
+.\Debug\MyBiTree_main.sbr
+.\Debug\CTable.sbr
+.\Debug\CMyFile.sbr
+.\Debug\MyCopy.sbr
+.\Debug\CMyString.sbr
+.\Debug\UI.sbr
+.\Debug\Fit.sbr
+.\Debug\Exception.sbr
+.\Debug\CInfo.sbr
+.\Debug\CInfoManage.sbr
+.\Debug\CManage.sbr
+.\Debug\CStudManage.sbr
+.\Debug\main.sbr]
+Creating command line "bscmake.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP16B.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+StudManage.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>

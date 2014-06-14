@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MyBiTree">
+      <UniqueIdentifier>{5918e8e5-9903-4d6b-843e-068a1e71c552}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Table">
+      <UniqueIdentifier>{1e478394-530c-492c-a975-8d9eb5740593}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File">
+      <UniqueIdentifier>{c78c11da-1545-4b41-99c1-71962a703477}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyString">
+      <UniqueIdentifier>{8db69d30-3929-42b0-8b1f-2bb80665866e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{94bf98c1-7705-4308-b6ae-37eb1acd8b36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fit">
+      <UniqueIdentifier>{6eca88d7-3ce6-4f31-8965-3def66ebdd0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tool">
+      <UniqueIdentifier>{b8a23de7-9b22-4794-bbd2-096e8be58dcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exception">
+      <UniqueIdentifier>{42a4585a-9ceb-4c77-884a-574ed9375433}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Info">
+      <UniqueIdentifier>{76e19d37-3c8d-40c9-b25d-227bd36e9477}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InfoManage">
+      <UniqueIdentifier>{b0eb167b-6885-4677-a26d-eef5c4e70bf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StudManage">
+      <UniqueIdentifier>{f2eed2e5-666b-460b-ad15-fdcb3bdd3854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InfoTree">
+      <UniqueIdentifier>{2787a5e8-19e5-48c1-8b10-cdc0e2071eea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DLinkList.cpp">
+      <Filter>MyBiTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBiTree_main.cpp">
+      <Filter>MyBiTree</Filter>
+    </ClCompile>
+    <ClCompile Include="CTable.cpp">
+      <Filter>Table</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyFile.cpp">
+      <Filter>File</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCopy.cpp">
+      <Filter>File</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyString.cpp">
+      <Filter>MyString</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Fit.cpp">
+      <Filter>Fit</Filter>
+    </ClCompile>
+    <ClCompile Include="Exception.cpp">
+      <Filter>Exception</Filter>
+    </ClCompile>
+    <ClCompile Include="CInfo.cpp">
+      <Filter>Info</Filter>
+    </ClCompile>
+    <ClCompile Include="CInfoManage.cpp">
+      <Filter>InfoManage</Filter>
+    </ClCompile>
+    <ClCompile Include="CManage.cpp">
+      <Filter>StudManage</Filter>
+    </ClCompile>
+    <ClCompile Include="CStudManage.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DLinkList.h">
+      <Filter>MyBiTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBiTree.h">
+      <Filter>MyBiTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MyQueue.h">
+      <Filter>MyBiTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>MyBiTree</Filter>
+    </ClInclude>
+    <ClInclude Include="CTable.h">
+      <Filter>Table</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyFile.h">
+      <Filter>File</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCopy.h">
+      <Filter>File</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyString.h">
+      <Filter>MyString</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.H">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Fit.h">
+      <Filter>Fit</Filter>
+    </ClInclude>
+    <ClInclude Include="Const.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Exception.h">
+      <Filter>Exception</Filter>
+    </ClInclude>
+    <ClInclude Include="CInfo.h">
+      <Filter>Info</Filter>
+    </ClInclude>
+    <ClInclude Include="CInfoManage.h">
+      <Filter>InfoManage</Filter>
+    </ClInclude>
+    <ClInclude Include="CManage.h">
+      <Filter>StudManage</Filter>
+    </ClInclude>
+    <ClInclude Include="CInfoTree.h">
+      <Filter>InfoTree</Filter>
+    </ClInclude>
+    <ClInclude Include="CStudManage.h" />
+  </ItemGroup>
+</Project>
